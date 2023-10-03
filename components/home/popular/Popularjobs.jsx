@@ -11,4 +11,4 @@ const Popularjobs = () => {
   )
 }
 
-export default Popularjobs
+export default Popularjobs;
